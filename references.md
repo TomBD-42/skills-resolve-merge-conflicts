@@ -1,2 +1,2 @@
-This is a conflict!
+This is no longer a conflict
 Wow!!!
